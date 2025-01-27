@@ -1,0 +1,23 @@
+{
+  "name": "api_exam_1111",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+     "dev":"node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashash1111/API_EXAM_1111.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yashash1111/API_EXAM_1111/issues"
+  },
+  "homepage": "https://github.com/yashash1111/API_EXAM_1111#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
